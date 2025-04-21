@@ -1,2 +1,2 @@
 # Precision-Budget-Allocation
-In this project, I performed a comprehensive analysis of marketing channel efficiency using data from visits, costs, and orders. 
+In this project, I performed a comprehensive analysis of marketing channel efficiency using data from visits, costs, and orders. I calculated key metrics such as CAC, LTV, and ROMI by channel and device to identify which strategies delivered the highest return on investment. The analysis involved data cleaning, merging datasets, and creating insightful visualizations in Python, with a focus on actionable insights to optimize marketing spend.
